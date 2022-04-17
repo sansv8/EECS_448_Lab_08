@@ -1,0 +1,46 @@
+body
+{
+    background-image: url(spaghetti.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+img
+{
+  width:10%;
+  height:auto;  
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+.papyrus
+{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif; 
+    color:coral;
+}
+
+#profileParagraph
+{
+    background-color: black;
+    font-size: x-large;
+}
+h1
+{
+    font-size: 50px;
+    background-color: black;
+}
+
+a{
+    font-size:30px;
+    color:coral;
+    background-color: black;
+}
+
+a:hover
+{
+    color:blue;
+}
